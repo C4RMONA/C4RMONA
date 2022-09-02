@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **christiancarmona3@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1NUKqDRwzqftXRR7Wb98Y-1edMdLtYSV-TgCF2YaoNi4/edit#heading=h.o2gnvmjs6w2k)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1IH4iFgHU8bvN_gBRxFoV1YPAyjd0syvqy99iBYFWhiE/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
