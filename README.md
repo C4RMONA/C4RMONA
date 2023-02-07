@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **The MERN Stack**
 
-- 👨‍💻 All of my projects are available at my [portfolio page](https://c4rmona.github.io/portfolio-page/)
+- 👨‍💻 All of my projects are available at my [portfolio page](https://c4rmona.github.io/React-Portfolio/)
 
 - 📫 How to reach me **christiancarmona3@gmail.com**
 
